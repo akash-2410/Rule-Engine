@@ -23,7 +23,7 @@ Hi, I'm Akash Pandey, a Full-Stack Developer and Data enthusiast skilled in Reac
 
 ## Introduction
 
-> I read the assginment description a lot of times, so as to make sure I don't
+> I read the assignment description a lot of times, so as to make sure I don't
 > miss on anything important.
 
 Most of the code I have written would seem like a story, so I made sure the README
