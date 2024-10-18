@@ -1,6 +1,6 @@
 # Application 1 : Rule Engine with AST
 
-> Zeotap | Assignment | Application 1
+> Application 1
 
 ## Applicant Introduction
 
